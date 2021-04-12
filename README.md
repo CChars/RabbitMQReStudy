@@ -1,4 +1,4 @@
-# RabbitMQStudy
+# RabbitMQReStudy
 
 ```
 ├─rabbitmq-consumerproject
